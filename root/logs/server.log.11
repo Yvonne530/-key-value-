@@ -1,0 +1,36 @@
+4月 30, 2025 11:20:23 上午 thesec.JavaServer findAvailablePort
+警告: 端口 3000 被占用，尝试下一个端口
+4月 30, 2025 11:20:23 上午 thesec.JavaServer findAvailablePort
+警告: 端口 3001 被占用，尝试下一个端口
+4月 30, 2025 11:20:23 上午 thesec.JavaServer findAvailablePort
+警告: 端口 3002 被占用，尝试下一个端口
+4月 30, 2025 11:20:23 上午 thesec.JavaServer findAvailablePort
+警告: 端口 3003 被占用，尝试下一个端口
+4月 30, 2025 11:20:23 上午 thesec.JavaServer findAvailablePort
+警告: 端口 3004 被占用，尝试下一个端口
+4月 30, 2025 11:20:23 上午 thesec.JavaServer main
+严重: 找不到可用端口，服务器启动失败
+4月 30, 2025 1:20:13 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3000 被占用，尝试下一个端口
+4月 30, 2025 1:20:13 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3001 被占用，尝试下一个端口
+4月 30, 2025 1:20:13 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3002 被占用，尝试下一个端口
+4月 30, 2025 1:20:13 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3003 被占用，尝试下一个端口
+4月 30, 2025 1:20:13 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3004 被占用，尝试下一个端口
+4月 30, 2025 1:20:13 下午 thesec.JavaServer main
+严重: 找不到可用端口，服务器启动失败
+4月 30, 2025 10:49:02 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3000 被占用，尝试下一个端口
+4月 30, 2025 10:49:02 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3001 被占用，尝试下一个端口
+4月 30, 2025 10:49:02 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3002 被占用，尝试下一个端口
+4月 30, 2025 10:49:02 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3003 被占用，尝试下一个端口
+4月 30, 2025 10:49:02 下午 thesec.JavaServer findAvailablePort
+警告: 端口 3004 被占用，尝试下一个端口
+4月 30, 2025 10:49:02 下午 thesec.JavaServer main
+信息: 服务器启动成功，监听端口: 3005

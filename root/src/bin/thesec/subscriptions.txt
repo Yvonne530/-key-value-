@@ -1,0 +1,2 @@
+server.port=3000
+System.out.println("当前工作目录：" + System.getProperty("user.dir"));  
