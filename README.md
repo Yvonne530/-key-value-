@@ -1,17 +1,8 @@
 # 网络key-value数据库  
 
 ## 一、项目简介  
-本项目实现一个基于Java Socket的多线程服务器，支持多客户端连接，提供如下功能：  
-
-- 字符串类型的 key-value 存储（set/get/del）  
-- 双向链表类型支持左右端操作（lpush/rpush/lpop/rpop/range/len/ldel）  
-- 哈希类型 key-field-value 存储（hset/hget/hdel）  
-- 其它指令：ping、help  
-- 数据持久化（set/del 指令持久化文件存储）  
-- 读取配置文件（监听端口、日志路径、数据存储路径）  
-- 日志功能（访问IP、异常记录）  
-- 异常处理，保证服务器稳定运行  
-
+本项目实现一个基于Java Socket的多线程服务器
+- 适合酒店信息管理 
 ---  
 
 ## 二、技术与语言特性  
@@ -39,7 +30,18 @@
 ### 3.2 客户端设计  
 - 使用Socket连接服务器指定端口  
 - 允许控制台输入命令，发送指令给服务器  
-- 接收服务器响应并打印显示  
+- 接收服务器响应并打印显示
+
+### 3.3 数据库设计  
+- 字符串类型的 key-value 存储（set/get/del）  
+- 双向链表类型支持左右端操作（lpush/rpush/lpop/rpop/range/len/ldel）  
+- 哈希类型 key-field-value 存储（hset/hget/hdel）  
+- 其它指令：ping、help  
+- 数据持久化（set/del 指令持久化文件存储）  
+- 读取配置文件（监听端口、日志路径、数据存储路径）  
+- 日志功能（访问IP、异常记录）  
+- 异常处理，保证服务器稳定运行 
+
 
 ---  
 
